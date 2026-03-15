@@ -19,4 +19,4 @@ This is a functional Math Quiz game developed as part of the **Programming Advic
 3. Run the generated executable.
 
 ---
-*Developed by [Your Name]*
+*Developed by [Ahmed Sheikh Aldeen Yusef]*
